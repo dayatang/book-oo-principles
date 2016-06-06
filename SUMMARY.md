@@ -1,7 +1,7 @@
 # Summary
 
 * [世界观、原则、模式与最佳实践](value-principle-pattern-and-practice.md)
-* [关于OO的11个原则](introduction-principles.md)
+* [关于OO的11个原则](introduction.md)
 * [单一职责原则SRP](srp.md)
 * [开放-封闭原则OCP](ocp.md)
 * [Liskov替换原则LSP](lsp.md)
